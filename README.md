@@ -1,4 +1,4 @@
-# My CV - LaTeX
+# My resume
 
 ## Hướng dẫn build
 

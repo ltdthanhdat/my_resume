@@ -23,11 +23,3 @@ latexmk -xelatex main.tex
 ```
 
 Sau khi chạy xong, file `main.pdf` sẽ xuất hiện trong thư mục `resume/`.
-
-## Ghi chú
-- Nếu bạn muốn build thủ công, có thể dùng lệnh:
-  ```bash
-  xelatex main.tex
-  ```
-  (chạy 2-3 lần để cập nhật cross-reference)
-- Nếu muốn build bằng Docker, hãy yêu cầu để được cung cấp file cấu hình. 

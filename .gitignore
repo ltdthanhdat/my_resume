@@ -1,0 +1,9 @@
+# Ignore LaTeX build files except PDF
+resume/*.aux
+resume/*.log
+resume/*.fls
+resume/*.fdb_latexmk
+resume/*.xdv
+resume/*.out
+resume/*.synctex.gz
+!resume/*.pdf 
